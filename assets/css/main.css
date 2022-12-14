@@ -1,3 +1,14 @@
 body {
     background-color: #ecf0f1;
 }
+
+.tg-color {
+    color: #16424f;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
+.s-icon {
+    font-size: 20px;
+}
